@@ -8,3 +8,11 @@ a*b
 print(a*b)
 a/b
 print(a/b)
+
+
+
+
+π = 3.14  
+R = float (input (" enter the radius : "))  
+area_of_the_circle = π * R * R 
+print (" The area of the circle is: ", area_of_the_circle)  
